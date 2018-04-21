@@ -21,7 +21,7 @@
         android:layout_height="462dp"
         android:orientation="vertical"
         app:layout_constraintTop_toTopOf="parent"
-        tools:layout_editor_absoluteX="0dp">
+        tools:layout_editor_absoluteX="10dp">
 
         <TextView
             android:id="@+id/textView10"
@@ -73,10 +73,17 @@
 
         <Button
             android:id="@+id/button"
-            android:layout_width="match_parent"
+            android:layout_width="355dp"
             android:layout_height="wrap_content"
             android:onClick="calcular2"
             android:text="@string/calcular" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="355dp"
+            android:layout_height="wrap_content"
+            android:onClick="Limpiar"
+            android:text="@string/borrar" />
 
         <TextView
             android:id="@+id/txtresultado"

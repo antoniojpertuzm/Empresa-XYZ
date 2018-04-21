@@ -22,4 +22,5 @@
     <string name="tiposexo">Type of sex</string>
     <string name="error_uno">this field can not be blank</string>
     <string name="Resultado">result</string>
+    <string name="borrar">Delete</string>
 </resources>

@@ -79,6 +79,13 @@ public class Principal extends AppCompatActivity {
    }
 
 
+   public void Limpiar (View v){
+        cantidad.setText( "");
+        resultado.setText("");
+
+
+   }
+
 }
 
 

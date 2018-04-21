@@ -45,5 +45,6 @@
 
 
 <string name="error_uno"> este campo no puede estar vacio</string>
+    <string name="borrar">Borrar</string>
 
 </resources>
