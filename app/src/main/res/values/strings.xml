@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Empresa XYZ</string>
+    <string name="Seleccione_el_sexo">Seleccione el Sexo</string>
+    <string name="Hombre">hombre</string>
+    <string name="Hombre_1">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="tipodezapato">Seleccione el tipo de zapato</string>
+    <string name="tipoMarca">Seleecione la Marca de Zapato</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="Zapatilla">Zapatilla</string>
+    <string name="Clasico">Clasico</string>
+    <string name="Nike">Nike</string>
+    <string name="Addidas">Addidas</string>
+    <string name="Puma">Puma</string>
+    <string name="Marca">Marca</string>
+    <string name="Cantidad">Cantidad</string>
+    <string name="digitecantidad">Digite la Cantidad</string>
+    <string name="calcular">Calcular</string>
+    <string name="Masculino">Masculino</string>
+    <string name="Femenino">Femenino</string>
+    <string name="tiposexo">Tiposexo</string>
+    <string name="Resultado">Resultado</string>
+
+
+    <array name="tipozapato">
+
+        <item> @string/Zapatilla</item>
+        <item> @string/Clasico</item>
+
+    </array>
+
+    <array name="marca">
+
+        <item> @string/Nike</item>
+        <item> @string/Addidas</item>
+        <item> @string/Puma</item>
+    </array>
+
+    <array name="tiposexo">
+
+        <item> @string/Masculino</item>
+        <item> @string/Femenino</item>
+
+    </array>
+
+
+<string name="error_uno"> este campo no puede estar vacio</string>
+
+</resources>

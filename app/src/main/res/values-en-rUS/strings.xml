@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Empresa XYZ</string>
+    <string name="Seleccione_el_sexo">select sexo</string>
+    <string name="Hombre">man</string>
+    <string name="Hombre_1">man</string>
+    <string name="mujer">woman</string>
+    <string name="tipodezapato">Select the type of shoe</string>
+    <string name="tipoMarca">Select the shoe brand</string>
+    <string name="cantidad">Quantity</string>
+    <string name="Zapatilla">Shoe</string>
+    <string name="Clasico">Classic</string>
+    <string name="Nike">Nike</string>
+    <string name="Addidas">Addidas</string>
+    <string name="Puma">Puma</string>
+    <string name="Marca">Brand</string>
+    <string name="Cantidad">Quantity</string>
+    <string name="digitecantidad">Type in the amount</string>
+    <string name="calcular">Calculate</string>
+    <string name="Masculino">Male</string>
+    <string name="Femenino">Female</string>
+    <string name="tiposexo">Type of sex</string>
+    <string name="error_uno">this field can not be blank</string>
+    <string name="Resultado">result</string>
+</resources>
